@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/web/Nuevo.jsp</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/src/java/com/emergentes/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/src/java/com/emergentes/dao/UsuarioDAOimpl.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/src/java/com/emergentes/dao/PostsDAO.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/src/java/com/emergentes/controlador/Inicio.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/src/java/com/emergentes/utiles/ConexionBD.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/web/Bienvenida.jsp</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/src/java/com/emergentes/controlador/Controlador.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/web/Login.jsp</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/src/java/com/emergentes/modelo/Usuario.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/web/Inicio.jsp</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/src/java/com/emergentes/dao/PostsDAOimpl.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/src/java/com/emergentes/modelo/Posts.java</file>
+            <file>file:/C:/Users/USUARIO/Documents/NetBeansProjects/Practica_05_Patron_DAO/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>

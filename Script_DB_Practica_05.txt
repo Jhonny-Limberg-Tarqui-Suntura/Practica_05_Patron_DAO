@@ -1,0 +1,20 @@
+create database bd_blog;
+
+use bd_blog;
+
+create table usuarios(
+	id int(11) unsigned auto_increment not null primary key,
+	usuario varchar(20),
+	password varchar(255)
+);
+
+create table posts(
+	id int(11) unsigned auto_increment not null primary key,
+	fecha date,
+	titulo varchar(100),
+	contenido text
+);
+
+insert into usuarios(usuario,password) values("admin","1234");
+insert into usuarios(usuario,password) values("jtarqui","1111");
+
